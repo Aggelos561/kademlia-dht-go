@@ -1,0 +1,15 @@
+/simulation/scripts/remote/output
+/simulation/scripts/remote/remote_bootstraps_*
+/simulation/scripts/remote/remote_sim
+
+/simulation/simulation
+/simulation/scripts/plots
+
+
+*.log
+*.exe
+*.exe~
+*.sqlite
+.venv
+
+__pycache__
